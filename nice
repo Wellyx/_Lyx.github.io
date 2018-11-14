@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: git@github.com:<Wellyx>/<Wellyx>.github.io.git
+  branch: master
